@@ -94,9 +94,8 @@ p {
     align-items: center;
     color: white;
     background-color: black;
-    border: 40;
+    border: solid white;
     border-radius: 100px;
-    border-color: white;
     border-width: 4px;
     cursor: pointer;
     display: inline-flex;
@@ -194,9 +193,10 @@ title {
     }
 
     #descr {
-      width: 300px;
-      padding-left: 15%;
-      padding-right: 0px;
+      width: 450px;
+      padding-left: 10px;
+      padding-right: 10px;
+      text-align: center;
     }
 
     .bunny {
